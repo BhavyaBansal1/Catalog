@@ -1,3 +1,3 @@
 # Catalog Assignment
 to start
-node indej.js
+node index.js
